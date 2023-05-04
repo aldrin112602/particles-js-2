@@ -48,7 +48,7 @@
       this.width = this.canvas.width;
       this.height = this.canvas.height;
       this.particles = [];
-      this.numberOfParticles = 30;
+      this.numberOfParticles = 50;
       this.createParticles();
     }
     createParticles() {
